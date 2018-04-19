@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prime</title>
+</head>
+<body>
+    <script>
+        function isPrime(num){
+            for(var i = 2; i < num; i++){
+                if(num % 2 === 0){
+                    return false;
+                }
+            }
+            return true;
+        }
+        //document.write(isPrime(2));
+        var num = prompt("Enter a number to check prime or not");
+        document.write(isPrime(num));
+    </script>
+
+</body>
+</html>

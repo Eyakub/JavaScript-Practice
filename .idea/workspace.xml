@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b593c754-f948-483e-9526-0e06e30d4aaa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Web Engineering Final/armostrong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Engineering Final/isPrime.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="armostrong.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="armostrong.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web Engineering Final/armostrong.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="357">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isPrime.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web Engineering Final/isPrime.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -63,6 +72,7 @@
         <option value="$PROJECT_DIR$/Web Engineering Final/addition.js" />
         <option value="$PROJECT_DIR$/Web Engineering Final/addition.html" />
         <option value="$PROJECT_DIR$/Web Engineering Final/armostrong.html" />
+        <option value="$PROJECT_DIR$/Web Engineering Final/isPrime.html" />
       </list>
     </option>
   </component>
@@ -129,17 +139,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.armostrong.html">
+  <component name="RunManager" selected="JavaScript Debug.isPrime.html">
     <configuration name="area.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/area.html" />
     <configuration name="armostrong.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/armostrong.html" />
+    <configuration name="isPrime.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/isPrime.html" />
     <configuration name="addition.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="addition.js" working-dir="$PROJECT_DIR$/Web Engineering Final" />
     <list>
       <item itemvalue="Node.js.addition.js" />
       <item itemvalue="JavaScript Debug.area.html" />
       <item itemvalue="JavaScript Debug.armostrong.html" />
+      <item itemvalue="JavaScript Debug.isPrime.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.isPrime.html" />
         <item itemvalue="JavaScript Debug.armostrong.html" />
         <item itemvalue="JavaScript Debug.area.html" />
         <item itemvalue="Node.js.addition.js" />
@@ -156,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524167323814</updated>
-      <workItem from="1524167325335" duration="1575000" />
+      <workItem from="1524167325335" duration="2302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1575000" />
+    <option name="totallyTimeSpent" value="2302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="783" y="0" width="1142" height="1047" extended-state="0" />
@@ -218,8 +231,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Web Engineering Final/armostrong.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="357">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Engineering Final/isPrime.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
