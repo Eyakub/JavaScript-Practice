@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b593c754-f948-483e-9526-0e06e30d4aaa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vagrant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Engineering Final/addition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Engineering Final/armostrong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addition.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Web Engineering Final/addition.html">
+      <file leaf-file-name="area.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web Engineering Final/area.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+              <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="armostrong.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web Engineering Final/armostrong.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -53,6 +62,7 @@
       <list>
         <option value="$PROJECT_DIR$/Web Engineering Final/addition.js" />
         <option value="$PROJECT_DIR$/Web Engineering Final/addition.html" />
+        <option value="$PROJECT_DIR$/Web Engineering Final/armostrong.html" />
       </list>
     </option>
   </component>
@@ -119,15 +129,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.area.html">
+  <component name="RunManager" selected="JavaScript Debug.armostrong.html">
     <configuration name="area.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/area.html" />
+    <configuration name="armostrong.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/armostrong.html" />
     <configuration name="addition.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="addition.js" working-dir="$PROJECT_DIR$/Web Engineering Final" />
     <list>
       <item itemvalue="Node.js.addition.js" />
       <item itemvalue="JavaScript Debug.area.html" />
+      <item itemvalue="JavaScript Debug.armostrong.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.armostrong.html" />
         <item itemvalue="JavaScript Debug.area.html" />
         <item itemvalue="Node.js.addition.js" />
       </list>
@@ -143,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524167323814</updated>
-      <workItem from="1524167325335" duration="1007000" />
+      <workItem from="1524167325335" duration="1575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1007000" />
+    <option name="totallyTimeSpent" value="1575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="783" y="0" width="1142" height="1047" extended-state="0" />
@@ -160,7 +173,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32893288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32893288" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -196,10 +209,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Engineering Final/addition.html">
+    <entry file="file://$PROJECT_DIR$/Web Engineering Final/area.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Engineering Final/armostrong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
