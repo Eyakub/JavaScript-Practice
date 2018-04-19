@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<input type="" name="" id="userInput" size=60> 
+	<button type="" onclick="userSubmit()">Submit</button><br>
+	<p><div id='result'></div></p>
+
+	<script type="text/javascript">
+		function userSubmit(){
+			var UI = document.getElementById('userInput').value;
+			document.getElementById('result').innerHTML = '<font color=blue>You Typed: </font>' +UI;
+		}
+	</script>
+</body>
+</html>

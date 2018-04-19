@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS for Practice</title>
+</head>
+<body>
+<script type="text/javascript">
+    document.write("hello js")
+    sayHi = function () {
+        window.alert('Hello ' + document.alertform.yourname.value);
+    }
+
+    seeTime = function () {
+        document.getElementById('time').innerHTML = Date();
+    }
+
+    var Eyakub = {
+        firstName: "Eyakub",
+        lastName: "Sorkar",
+        age: 23,
+        height: 5.6
+    };
+
+    printDetails = function () {
+        document.getElementById('nameInfo').innerHTML =
+            "My name is: " + Eyakub.firstName + "</br>"
+            + "I'm " + Eyakub.age + " year's old." +
+            "<br> My height is: " + Eyakub.height;
+    }
+
+    goatPrint = function () {
+        var str = document.getElementById('goat').innerHTML;
+        var c = str.replace(/human/g, "goat");
+        //var c = str.replace(/human/i, "goat") for case sensitive
+        document.getElementById('goat').innerHTML = c;
+    }
+
+</script>
+
+<form name="alertform">
+    <input type="text" name="yourname">
+    <input type="button" value="Go" onclick="sayHi()">
+</form>
+<button style="margin-top: 20px;" onclick="seeTime()">Current time?</button>
+<p id="time"></p>
+
+<button onclick="printDetails()">Your Details</button>
+<p id="nameInfo" ></p>
+
+<button onclick="goatPrint()">Try it</button>
+<p id="goat">i'm a human, i love human, i wanna fuck human, cause i'm human</p>
+</body>
+</html>

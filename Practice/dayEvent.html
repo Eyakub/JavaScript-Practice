@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Day's Event</title>
+    <script type="text/javascript">
+
+        dayEvents = function () {
+            var name,
+                now = new Date(),
+                hour = now.getHours();
+
+            name = window.prompt("Please enter your name", "Eyakub");
+            if (hour < 12) {
+                document.write("<h1>Good morning</h1>");
+            }
+            if (hour >= 12) {
+                //convert to a 12 hour clock
+                hour = hour - 12;
+
+                //determine whether it is before 6pm
+                if (hour < 3) {
+                    document.write("<h1>Good Noon ");
+                }
+
+                else if (hour < 6) {
+                    document.write("<h1>Good afternoob</h1>");
+                }
+
+                //determine whether it is after 6 pm
+                else if (hour >= 6) {
+                    document.write("<h1>Good evening ");
+                }
+
+            }
+            document.write("<span style='color: burlywood; font-size: x-large'>" + name + "</span>" + " welcome to js programming</h1>");
+        }
+
+    </script>
+</head>
+<body>
+<script>dayEvents();</script>
+<p>Click refresh to run this script again</p>
+</body>
+</html>

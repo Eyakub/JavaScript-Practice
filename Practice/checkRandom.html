@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Random Check</title>
+    <script type="text/javascript">
+        var n = Math.floor(Math.random() * 100) + 1;
+        randomNum = function () {
+            document.write(n); //a number between 1 to 100
+        }
+
+        getNumber = function () {
+            //var res = parseInt(num);
+            //document.write(res);
+            var str = document.frm.num.value; //getting data from input field
+            var n1 = parseInt(str); //parsing data to integer
+            if (n == n1) {
+                document.getElementById('setResult').innerHTML = "Right";
+            } else {
+                document.getElementById('setResult').innerHTML = "Wrong";
+            }
+        }
+
+
+    </script>
+</head>
+
+<body>
+<h1>Randon Number is:
+    <script>randomNum();</script>
+</h1>
+<form name="frm">
+    <input type="text" name="num">
+    <button onclick="getNumber()">Input Above number</button>
+</form>
+
+<h3><p id="setResult"></p></h3>
+</body>
+</html>
