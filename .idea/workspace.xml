@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b593c754-f948-483e-9526-0e06e30d4aaa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Web Engineering Final/findCar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Engineering Final/Cookie.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,11 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="findCar.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="findCar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web Engineering Final/findCar.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cookie.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web Engineering Final/Cookie.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -104,6 +113,8 @@
         <option value="$PROJECT_DIR$/Web Engineering Final/Form Validation &amp; Database Connection/action.php" />
         <option value="$PROJECT_DIR$/Web Engineering Final/findCar.html" />
         <option value="$PROJECT_DIR$/Web Engineering Final/findCar.php" />
+        <option value="$PROJECT_DIR$/Web Engineering Final/Create Cookie.html" />
+        <option value="$PROJECT_DIR$/Web Engineering Final/Create Cookie.php" />
       </list>
     </option>
   </component>
@@ -170,26 +181,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.findCar.php">
-    <configuration name="area.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/area.html" />
+  <component name="RunManager" selected="JavaScript Debug.Create Cookie.php">
+    <configuration name="Cookie.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/Cookie.php" />
     <configuration name="armostrong.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/armostrong.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/Form Validation &amp; Database Connection/index.html" />
-    <configuration name="isPrime.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/Web Engineering Final/isPrime.html" />
+    <configuration name="Cookie.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Web Engineering Final/Cookie.php" />
     <configuration name="findCar.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Web Engineering Final/findCar.php" />
     <list>
-      <item itemvalue="JavaScript Debug.area.html" />
       <item itemvalue="JavaScript Debug.armostrong.html" />
-      <item itemvalue="JavaScript Debug.isPrime.html" />
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="PHP Script.findCar.php" />
+      <item itemvalue="PHP Script.Create Cookie.php" />
+      <item itemvalue="JavaScript Debug.Create Cookie.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Create Cookie.php" />
+        <item itemvalue="PHP Script.Create Cookie.php" />
         <item itemvalue="PHP Script.findCar.php" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.armostrong.html" />
-        <item itemvalue="JavaScript Debug.isPrime.html" />
-        <item itemvalue="JavaScript Debug.area.html" />
       </list>
     </recent_temporary>
   </component>
@@ -203,12 +214,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524167323814</updated>
-      <workItem from="1524167325335" duration="7205000" />
+      <workItem from="1524167325335" duration="9011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7205000" />
+    <option name="totallyTimeSpent" value="9011000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="783" y="0" width="1142" height="1047" extended-state="0" />
@@ -218,10 +229,10 @@
       <window_info anchor="bottom" id="PHP-CGI Server" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32893288" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32893288" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2495379" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495379" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -296,6 +307,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Engineering Final/Cookie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
         </state>
       </provider>
     </entry>
