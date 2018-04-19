@@ -6,12 +6,24 @@
 </head>
 <body>
     <script>
+        /**
+         * armstrong number is like a given number, let's say
+         * 371
+         * so...count the length is 3
+         * 3*3*3 + 7*7*7 + 1*1*1 === 371(means power will be the number of length
+         *
+         * if it's four digit
+         * let's say 1634
+         * 1*1*1*1 + 6*6*6*6 + 3*3*3*3 + 4*4*4*4 === 1634
+         *
+         */
         var number = prompt("Enter a number");
         var numberOfDigits = number.length;
         var sum = 0;
 
         for(i = 0; i < numberOfDigits; i++){
             sum += Math.pow(number.charAt(i), numberOfDigits);
+            //console.log(sum); no need
         }
 
         if(sum == number){
